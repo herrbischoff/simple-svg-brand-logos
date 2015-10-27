@@ -6,7 +6,7 @@ A collection of simplified brand logos. Oftentimes those are only available on s
 
 ## Contributing
 
-Make sure you have a vector editing tool (I use [Affinity Designer](https://affinity.serif.com/)) and [svgo](https://github.com/svg/svgo). 
+Make sure you have a vector editing tool (I use [Affinity Designer](https://affinity.serif.com/)) and [svgo](https://github.com/svg/svgo). Also be aware that by contributing, you agree that your submission will enter the public domain.
 
 1. Acquire source vector file
 2. Simplify logo in a vector editing tool
