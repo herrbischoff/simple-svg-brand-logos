@@ -11,7 +11,7 @@ Make sure you have a vector editing tool (I use [Affinity Designer](https://affi
 1. Acquire source vector file
 2. Simplify logo in a vector editing tool
   - Constrain within a 64x64 viewbox
-  - Ensure there are no strokes
+  - Strive for no strokes
   - Simplify and minimise paths by joining into one curve
   - If a logo can be used with and without a brand text, keep the logo graphic and text in separate layers
   - Make all paths white
