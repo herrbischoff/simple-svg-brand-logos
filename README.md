@@ -10,11 +10,11 @@ Make sure you have a vector editing tool (I use [Affinity Designer](https://affi
 
 1. Acquire source vector file
 2. Simplify logo in a vector editing tool
-  - Constrain within a 64x64 viewbox
+  - Constrain to a max width and height of 128px
   - Strive for no strokes
-  - Simplify and minimise paths by joining into one curve
-  - If a logo can be used with and without a brand text, keep the logo graphic and text in separate layers
-  - Make all paths white
+  - Simplify and minimise paths by joining into curves
+  - No layers whatsoever
+  - Make all paths black
   - Export SVG
 3. Run `svgo` on the SVG file (`svgo --multipass -i file.svg`)
 
