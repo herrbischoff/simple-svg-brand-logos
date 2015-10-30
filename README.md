@@ -20,7 +20,7 @@ Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/)
 
 ## Legal Notice
 
-All brand graphics and associated names are trademarks and/or property of their respective owners. This repository does not have any affiliation with them nor does it claim to. Should any brand owner feel that their rights are misrepresented in any way, please open an issue with a valid contact address. I will investigate the claim and remove the appropriate assets if warranted.
+All brand graphics and associated names are trademarks and/or property of their respective owners. This repository does not have any affiliation with them nor does it claim to. Should any brand owner feel that their rights are misrepresented in any way, please open an issue with a valid contact address. The claim will be followed up on and the appropriate assets removed if warranted.
 
 ## License
 
