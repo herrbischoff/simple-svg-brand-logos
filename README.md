@@ -22,6 +22,10 @@ Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/)
 
 All brand graphics and associated names are trademarks and/or property of their respective owners. This repository does not have any affiliation with them nor does it claim to. Should any brand owner feel that their rights are misrepresented in any way, please open an issue with a valid contact address. The claim will be followed up on and the appropriate assets removed if warranted.
 
+## List
+
+![3com](https://github.com/herrbischoff/simple-svg-brand-logos/raw/master/logos/3com.svg)
+
 ## License
 
 The following license applies exclusively to the source code of this repository. It explicitly excludes any right to use the brand assets in any context. We cannot license what we don't own. If you plan to use an asset for anthing else than personal learning, you need to clear the appropriate usage rights with the respective trademark owner.
