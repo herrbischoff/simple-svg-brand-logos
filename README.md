@@ -25,6 +25,8 @@ All brand graphics and associated names are trademarks and/or property of their 
 ## List
 
 <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3com.svg" width="128">
+<img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3m.svg" width="128">
+<img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/500px.svg" width="128">
 
 ## License
 
