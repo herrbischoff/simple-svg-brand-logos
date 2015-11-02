@@ -24,7 +24,7 @@ All brand graphics and associated names are trademarks and/or property of their 
 
 ## List
 
-<img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3com.svg" align="center" width="128">
+-><img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3com.svg" align="center" width="128"><-
 
 <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3m.svg" align="center" width="128">
 
