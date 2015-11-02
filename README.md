@@ -26,21 +26,9 @@ All brand graphics and associated names are trademarks and/or property of their 
 
 | #   | A   | B   | C   |
 |:---:|:---:|:---:|:---:|
-| <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3com.svg" width="128"> | 1 | 1 |
-| <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3m.svg" align="center" width="128"> | 2 | 2 |
-| <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/500px.svg" width="128"> | 3 | 3 |
-
-
-
-
-
-
-
-<img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/adidas.svg" width="128">
-
-<img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/adobe.svg" width="128">
-
-<img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/alesis.svg" width="128">
+| <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3com.svg" width="128"> | <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/adidas.svg" width="128"> | 1 |
+| <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/3m.svg" align="center" width="128"> | <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/abobe.svg" width="128"> | 2 |
+| <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/500px.svg" width="128"> | <img src="https://cdn.rawgit.com/herrbischoff/simple-svg-brand-logos/master/logos/alesis.svg" width="128"> | 3 |
 
 ## License
 
