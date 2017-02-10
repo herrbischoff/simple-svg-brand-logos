@@ -24,7 +24,7 @@ All brand graphics and associated names are trademarks and/or property of their 
 
 ## License
 
-The following license applies exclusively to the source code of this repository. It explicitly excludes any right to use the brand assets in any context. We cannot license what we don't own. If you plan to use an asset for anthing else than personal learning, you need to clear the appropriate usage rights with the respective trademark owner.
+The following license applies exclusively to the source code of this repository. It explicitly excludes any right to use the brand assets in any context. We cannot license what we don't own. If you plan to use an asset for anything else than personal learning, you need to clear the appropriate usage rights with the respective trademark owner.
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
