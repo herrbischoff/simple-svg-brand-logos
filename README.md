@@ -8,15 +8,18 @@ A collection of simplified brand logos, including some hard to find gems. Oftent
 
 Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/) or [Adobe Illustrator](https://www.adobe.com/products/illustrator/) — I use [Affinity Designer](https://affinity.serif.com/designer/)) and [svgo](https://github.com/svg/svgo). Please be aware that by contributing, you agree that your submission will enter the public domain.
 
-1. Acquire source vector file
-2. Simplify logo in a vector editing tool
+1. Run `npm install`
+2. Acquire source vector file
+3. Simplify logo in a vector editing tool
   - Constrain to a max width and height of 128px
-  - Strive for no strokes
+  - Absolutely no strokes
   - Simplify and minimise paths by joining into curves
   - No layers whatsoever
   - Make all paths black
-  - Export SVG
-3. Run `svgo` on the SVG file (`svgo --multipass -i file.svg`)
+  - Export SVG to `process` directory
+4. Run `svgo` on the SVG file(s) (`npm run svgo`)
+5. Copy files to `logos` directory
+6. Commit every logo separately
 
 ## Legal Notice
 

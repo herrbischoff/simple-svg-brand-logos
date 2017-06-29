@@ -1,0 +1,21 @@
+{
+  "name": "simple-svg-brand-logos",
+  "version": "0.0.0",
+  "description": "A collection of simplified brand logos in SVG format.",
+  "scripts": {
+    "svgo": "for i in process/*; do svgo --pretty --multipass --config=svgo-config.yml \"$i\"; done"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrbischoff/simple-svg-brand-logos.git"
+  },
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/herrbischoff/simple-svg-brand-logos/issues"
+  },
+  "homepage": "https://github.com/herrbischoff/simple-svg-brand-logos#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "svgo": "^0.7.2"
+  }
+}
