@@ -21,6 +21,12 @@ Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/)
 5. Copy files to `logos` directory
 6. Commit every logo separately
 
+## Send a Tip my Way
+
+In case you feel particularly generous today, you can buy me a coffee. That would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings.
+
+Bitcoin: `1HXi42h9Uk5LmDrq1rVv8ykaFoeARTXw9P`
+
 ## Legal Notice
 
 All brand graphics and associated names are trademarks and/or property of their respective owners. This repository does not have any affiliation with them nor does it claim to. Should any brand owner feel that their rights are misrepresented in any way, please open an issue with a valid contact address. The claim will be followed up on and the appropriate assets removed if warranted.
