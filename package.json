@@ -16,6 +16,6 @@
   "homepage": "https://github.com/herrbischoff/simple-svg-brand-logos#readme",
   "dependencies": {},
   "devDependencies": {
-    "svgo": "^0.7.2"
+    "svgo": "*"
   }
 }
