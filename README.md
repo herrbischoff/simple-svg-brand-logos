@@ -4,6 +4,12 @@
 
 A collection of simplified brand logos, including some hard to find gems. Oftentimes those are only available on sketchy, ad-laden download sites, are of poor quality and need lots of cleaning up. This repository aims to help developers and designers to find high quality logos of any kind in one place. Also, all the color is stripped so they can be used in a consistent manner.
 
+## Buy Me a Coffee
+
+In case you feel particularly generous today, you can buy me a coffee. That would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings.
+
+<a href="https://www.buymeacoffee.com/Oi5LPJ4lr" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 ## Contributing
 
 Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/) or [Adobe Illustrator](https://www.adobe.com/products/illustrator/) — I use [Affinity Designer](https://affinity.serif.com/designer/)) and [svgo](https://github.com/svg/svgo). Please be aware that by contributing, you agree that your submission will enter the public domain.
@@ -20,12 +26,6 @@ Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/)
 4. Run `svgo` on the SVG file(s) (`npm run svgo`)
 5. Copy files to `logos` directory
 6. Commit every logo separately
-
-## Send a Tip my Way
-
-In case you feel particularly generous today, you can buy me a coffee. That would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings.
-
-Bitcoin: `1HXi42h9Uk5LmDrq1rVv8ykaFoeARTXw9P`
 
 ## Legal Notice
 
