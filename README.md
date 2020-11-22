@@ -1,18 +1,32 @@
 # Simple SVG Brand Logos
 
+## Women Empowerment in Zanzibar
+
+Send a little karma down the way and support women empowerment in Zanzibar by
+helping to [fund the local production of reusable female hygiene
+products](https://www.gofundme.com/f/women-empowerment-in-zanzibar). A very
+dear friend of mine runs the project. They were already able to buy hundreds of
+educational books. Sometimes, it takes so little to make a huge impact. If
+you'd like to thank me or support this work, donate. Additionally, any current
+and future sponsoring of my work via GitHub or other channels will flow one
+hundred percent to the NGO.
+
 ## Description
 
-A collection of simplified brand logos, including some hard to find gems. Oftentimes those are only available on sketchy, ad-laden download sites, are of poor quality and need lots of cleaning up. This repository aims to help developers and designers to find high quality logos of any kind in one place. Also, all the color is stripped so they can be used in a consistent manner.
-
-## Buy Me a Coffee
-
-In case you feel particularly generous today, you can buy me a coffee. That would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings.
-
-<a href="https://www.buymeacoffee.com/Oi5LPJ4lr" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+A collection of simplified brand logos, including some hard to find gems. 
+Oftentimes those are only available on sketchy, ad-laden download sites, are of 
+poor quality and need lots of cleaning up. This repository aims to help 
+developers and designers to find high quality logos of any kind in one place. 
+Also, all the color is stripped so they can be used in a consistent manner.
 
 ## Contributing
 
-Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/) or [Adobe Illustrator](https://www.adobe.com/products/illustrator/) — I use [Affinity Designer](https://affinity.serif.com/designer/)) and [svgo](https://github.com/svg/svgo). Please be aware that by contributing, you agree that your submission will enter the public domain.
+Make sure you have a vector editing tool (like 
+[Inkscape](https://inkscape.org/) or [Adobe 
+Illustrator](https://www.adobe.com/products/illustrator/) — I use [Affinity 
+Designer](https://affinity.serif.com/designer/)) and 
+[svgo](https://github.com/svg/svgo). Please be aware that by contributing, you 
+agree that your submission will enter the public domain.
 
 1. Run `npm install`
 2. Acquire source vector file
@@ -29,11 +43,20 @@ Make sure you have a vector editing tool (like [Inkscape](https://inkscape.org/)
 
 ## Legal Notice
 
-All brand graphics and associated names are trademarks and/or property of their respective owners. This repository does not have any affiliation with them nor does it claim to. Should any brand owner feel that their rights are misrepresented in any way, please open an issue with a valid contact address. The claim will be followed up on and the appropriate assets removed if warranted.
+All brand graphics and associated names are trademarks and/or property of their 
+respective owners. This repository does not have any affiliation with them nor 
+does it claim to. Should any brand owner feel that their rights are 
+misrepresented in any way, please open an issue with a valid contact address. 
+The claim will be followed up on and the appropriate assets removed if 
+warranted.
 
 ## License
 
-The following license applies exclusively to the source code of this repository. It explicitly excludes any right to use the brand assets in any context. We cannot license what we do not own. If you plan to use an asset for anything else than personal learning, you will need to clear the appropriate usage rights with the respective trademark owner.
+The following license applies exclusively to the source code of this 
+repository. It explicitly excludes any right to use the brand assets in any 
+context. We cannot license what we do not own. If you plan to use an asset for 
+anything else than personal learning, you will need to clear the appropriate 
+usage rights with the respective trademark owner.
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
